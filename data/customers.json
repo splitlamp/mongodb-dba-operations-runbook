@@ -1,0 +1,102 @@
+[
+  {
+    "customer_id": "C1001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.test",
+    "city": "Agra",
+    "tier": "gold",
+    "joined_at": {
+      "$date": "2024-01-12T10:00:00Z"
+    }
+  },
+  {
+    "customer_id": "C1002",
+    "name": "Diya Verma",
+    "email": "diya.verma@example.test",
+    "city": "Delhi",
+    "tier": "silver",
+    "joined_at": {
+      "$date": "2024-02-05T10:00:00Z"
+    }
+  },
+  {
+    "customer_id": "C1003",
+    "name": "Kabir Singh",
+    "email": "kabir.singh@example.test",
+    "city": "Jaipur",
+    "tier": "gold",
+    "joined_at": {
+      "$date": "2024-03-19T10:00:00Z"
+    }
+  },
+  {
+    "customer_id": "C1004",
+    "name": "Anaya Gupta",
+    "email": "anaya.gupta@example.test",
+    "city": "Agra",
+    "tier": "bronze",
+    "joined_at": {
+      "$date": "2024-04-22T10:00:00Z"
+    }
+  },
+  {
+    "customer_id": "C1005",
+    "name": "Vivaan Patel",
+    "email": "vivaan.patel@example.test",
+    "city": "Mumbai",
+    "tier": "silver",
+    "joined_at": {
+      "$date": "2024-05-08T10:00:00Z"
+    }
+  },
+  {
+    "customer_id": "C1006",
+    "name": "Sara Khan",
+    "email": "sara.khan@example.test",
+    "city": "Delhi",
+    "tier": "gold",
+    "joined_at": {
+      "$date": "2024-06-14T10:00:00Z"
+    }
+  },
+  {
+    "customer_id": "C1007",
+    "name": "Ishaan Mehta",
+    "email": "ishaan.mehta@example.test",
+    "city": "Pune",
+    "tier": "bronze",
+    "joined_at": {
+      "$date": "2024-07-01T10:00:00Z"
+    }
+  },
+  {
+    "customer_id": "C1008",
+    "name": "Myra Joshi",
+    "email": "myra.joshi@example.test",
+    "city": "Agra",
+    "tier": "silver",
+    "joined_at": {
+      "$date": "2024-08-17T10:00:00Z"
+    }
+  },
+  {
+    "customer_id": "C1009",
+    "name": "Arjun Rao",
+    "email": "arjun.rao@example.test",
+    "city": "Bengaluru",
+    "tier": "gold",
+    "joined_at": {
+      "$date": "2024-09-09T10:00:00Z"
+    }
+  },
+  {
+    "customer_id": "C1010",
+    "name": "Ira Das",
+    "email": "ira.das@example.test",
+    "city": "Kolkata",
+    "tier": "bronze",
+    "joined_at": {
+      "$date": "2024-10-11T10:00:00Z"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "sku": "SKU-100",
+    "name": "Wireless Mouse",
+    "category": "accessories",
+    "price": 799,
+    "stock": 120,
+    "active": true
+  },
+  {
+    "sku": "SKU-101",
+    "name": "Mechanical Keyboard",
+    "category": "accessories",
+    "price": 2499,
+    "stock": 45,
+    "active": true
+  },
+  {
+    "sku": "SKU-102",
+    "name": "USB-C Hub",
+    "category": "accessories",
+    "price": 1599,
+    "stock": 60,
+    "active": true
+  },
+  {
+    "sku": "SKU-103",
+    "name": "27-inch Monitor",
+    "category": "displays",
+    "price": 14999,
+    "stock": 18,
+    "active": true
+  },
+  {
+    "sku": "SKU-104",
+    "name": "Laptop Stand",
+    "category": "workspace",
+    "price": 1299,
+    "stock": 80,
+    "active": true
+  },
+  {
+    "sku": "SKU-105",
+    "name": "Webcam",
+    "category": "accessories",
+    "price": 3299,
+    "stock": 25,
+    "active": true
+  },
+  {
+    "sku": "SKU-106",
+    "name": "Desk Lamp",
+    "category": "workspace",
+    "price": 999,
+    "stock": 70,
+    "active": true
+  },
+  {
+    "sku": "SKU-107",
+    "name": "Portable SSD",
+    "category": "storage",
+    "price": 5999,
+    "stock": 32,
+    "active": true
+  },
+  {
+    "sku": "SKU-108",
+    "name": "Old USB Cable",
+    "category": "accessories",
+    "price": 199,
+    "stock": 0,
+    "active": false
+  },
+  {
+    "sku": "SKU-109",
+    "name": "Laptop Sleeve",
+    "category": "workspace",
+    "price": 899,
+    "stock": 55,
+    "active": true
+  }
+]

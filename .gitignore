@@ -1,0 +1,12 @@
+# Never commit local secrets, dumps, logs, or generated database files
+.env
+*.pem
+*.key
+*.log
+dump/
+backups/
+mongodb-dba-lab/
+*.bson
+*.metadata.json
+.DS_Store
+Thumbs.db

@@ -1,0 +1,214 @@
+[
+  {
+    "order_id": "O5001",
+    "customer_id": "C1001",
+    "items": [
+      {
+        "sku": "SKU-100",
+        "qty": 2,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-102",
+        "qty": 1,
+        "unit_price": 1599
+      }
+    ],
+    "status": "delivered",
+    "order_total": 3197,
+    "ordered_at": {
+      "$date": "2025-01-04T10:30:00Z"
+    }
+  },
+  {
+    "order_id": "O5002",
+    "customer_id": "C1002",
+    "items": [
+      {
+        "sku": "SKU-101",
+        "qty": 1,
+        "unit_price": 2499
+      }
+    ],
+    "status": "shipped",
+    "order_total": 2499,
+    "ordered_at": {
+      "$date": "2025-01-08T12:15:00Z"
+    }
+  },
+  {
+    "order_id": "O5003",
+    "customer_id": "C1003",
+    "items": [
+      {
+        "sku": "SKU-103",
+        "qty": 1,
+        "unit_price": 14999
+      }
+    ],
+    "status": "processing",
+    "order_total": 14999,
+    "ordered_at": {
+      "$date": "2025-01-10T09:00:00Z"
+    }
+  },
+  {
+    "order_id": "O5004",
+    "customer_id": "C1001",
+    "items": [
+      {
+        "sku": "SKU-104",
+        "qty": 1,
+        "unit_price": 1299
+      },
+      {
+        "sku": "SKU-106",
+        "qty": 2,
+        "unit_price": 999
+      }
+    ],
+    "status": "delivered",
+    "order_total": 3297,
+    "ordered_at": {
+      "$date": "2025-01-13T15:45:00Z"
+    }
+  },
+  {
+    "order_id": "O5005",
+    "customer_id": "C1004",
+    "items": [
+      {
+        "sku": "SKU-107",
+        "qty": 1,
+        "unit_price": 5999
+      }
+    ],
+    "status": "cancelled",
+    "order_total": 5999,
+    "ordered_at": {
+      "$date": "2025-01-15T11:10:00Z"
+    }
+  },
+  {
+    "order_id": "O5006",
+    "customer_id": "C1005",
+    "items": [
+      {
+        "sku": "SKU-105",
+        "qty": 1,
+        "unit_price": 3299
+      }
+    ],
+    "status": "delivered",
+    "order_total": 3299,
+    "ordered_at": {
+      "$date": "2025-01-18T16:20:00Z"
+    }
+  },
+  {
+    "order_id": "O5007",
+    "customer_id": "C1006",
+    "items": [
+      {
+        "sku": "SKU-100",
+        "qty": 1,
+        "unit_price": 799
+      },
+      {
+        "sku": "SKU-109",
+        "qty": 1,
+        "unit_price": 899
+      }
+    ],
+    "status": "shipped",
+    "order_total": 1698,
+    "ordered_at": {
+      "$date": "2025-01-20T08:05:00Z"
+    }
+  },
+  {
+    "order_id": "O5008",
+    "customer_id": "C1007",
+    "items": [
+      {
+        "sku": "SKU-102",
+        "qty": 2,
+        "unit_price": 1599
+      }
+    ],
+    "status": "processing",
+    "order_total": 3198,
+    "ordered_at": {
+      "$date": "2025-01-22T14:30:00Z"
+    }
+  },
+  {
+    "order_id": "O5009",
+    "customer_id": "C1008",
+    "items": [
+      {
+        "sku": "SKU-103",
+        "qty": 1,
+        "unit_price": 14999
+      }
+    ],
+    "status": "delivered",
+    "order_total": 14999,
+    "ordered_at": {
+      "$date": "2025-01-25T10:10:00Z"
+    }
+  },
+  {
+    "order_id": "O5010",
+    "customer_id": "C1009",
+    "items": [
+      {
+        "sku": "SKU-101",
+        "qty": 1,
+        "unit_price": 2499
+      },
+      {
+        "sku": "SKU-100",
+        "qty": 1,
+        "unit_price": 799
+      }
+    ],
+    "status": "delivered",
+    "order_total": 3298,
+    "ordered_at": {
+      "$date": "2025-01-28T18:40:00Z"
+    }
+  },
+  {
+    "order_id": "O5011",
+    "customer_id": "C1010",
+    "items": [
+      {
+        "sku": "SKU-106",
+        "qty": 1,
+        "unit_price": 999
+      }
+    ],
+    "status": "cancelled",
+    "order_total": 999,
+    "ordered_at": {
+      "$date": "2025-02-01T13:00:00Z"
+    }
+  },
+  {
+    "order_id": "O5012",
+    "customer_id": "C1003",
+    "items": [
+      {
+        "sku": "SKU-107",
+        "qty": 1,
+        "unit_price": 5999
+      }
+    ],
+    "status": "delivered",
+    "order_total": 5999,
+    "ordered_at": {
+      "$date": "2025-02-04T09:30:00Z"
+    }
+  }
+]
